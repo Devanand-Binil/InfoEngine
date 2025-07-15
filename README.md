@@ -8,7 +8,7 @@ A modular, scalable, and offline-capable intelligence tool that allows users to:
 * Connect and query external databases
 * Perform programmable web searches with Google CSE
 
-> Built to simulate the functionality of an elite agency-grade information extraction engine.
+
 
 ---
 
