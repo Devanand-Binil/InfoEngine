@@ -1,4 +1,4 @@
-# 🧠 Information Engine
+# 🧠 Info-Engine
 
 A modular, scalable, and offline-capable intelligence tool that allows users to:
 
