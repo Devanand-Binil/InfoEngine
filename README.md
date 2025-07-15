@@ -50,7 +50,7 @@ A modular, scalable, and offline-capable intelligence tool that allows users to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/infoengine.git
+git clone https://github.com/devanand-binil/infoengine.git
 cd infoengine
 
 # Create a virtual environment
