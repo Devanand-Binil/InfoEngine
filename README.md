@@ -109,13 +109,12 @@ python main.py
 
 | Feature                  | Preview                                          |
 | ------------------------ | ------------------------------------------------ |
-| 🧬 Facial Recognition UI | ![Facial UI](screenshots/facial.png)             |
-| 📁 Local File Scanner    | ![File Search](screenshots/file_search.png)      |
-| 🌐 Google Search Results | ![Google Results](screenshots/google_search.png) |
-| 📊 Database Search       | ![Database](screenshots/database.png)            |
-| 🎨 Dark Mode Interface   | ![Dark Theme](screenshots/dark_mode.png)         |
+| 🌐 Google Search Results | ![Google Results](screenshots/1.png)             |
+| 📊 Database Search       | ![Database](screenshots/2.png)                   |
+| 🧬 Facial Recognition UI | ![Facial UI](screenshots/3.png)                  |
+| 📁 Local File Scanner    | ![File Search](screenshots/4.png)                |
 
-> Add your `.png` or `.jpg` screenshots in the `/screenshots` folder.
+
 
 ---
 
